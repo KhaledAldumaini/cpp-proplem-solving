@@ -8,8 +8,6 @@ using namespace std;
 void PrintName(string Name) {
 
 	cout << "\nYour name is " << Name << endl;
-	cout << "hello bro";
-	// last line for test
 
 }
 
