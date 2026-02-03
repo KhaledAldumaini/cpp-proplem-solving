@@ -1,0 +1,20 @@
+# Visual Studio
+.vs/
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Build outputs
+Debug/
+Release/
+x64/
+x86/
+
+# Executables & objects
+*.exe
+*.obj
+*.pdb
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
