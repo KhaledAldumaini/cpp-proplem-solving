@@ -46,7 +46,7 @@ void PrintFullName(string FullName) {
 
 int main() {
 
-	PrintFullName(GetFullName(ReadFullName()));
+	PrintFullName(GetFullName(ReadFullName(), true));
 
 	return 0;
 }
