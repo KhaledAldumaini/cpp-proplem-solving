@@ -1,5 +1,5 @@
 /*
-    Problem 15: Calculate the area of the rectangle through diaganal and side area
+    Problem 16: Calculate the area of the rectangle through diaganal and side area
 */
 
 #include <iostream>

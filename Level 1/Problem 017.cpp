@@ -1,5 +1,5 @@
 /*
-    Problem 15: Calculate the area of the triagnle
+    Problem 17: Calculate the area of the triagnle
 */
 
 #include <iostream>

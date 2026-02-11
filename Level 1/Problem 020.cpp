@@ -1,5 +1,5 @@
 /*
-    Problem 15: Calculate the area of the circle by diameter
+    Problem 20: Calculate the area of the circle by diameter
 */
 
 #include <iostream>
